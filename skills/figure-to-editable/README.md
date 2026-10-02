@@ -17,7 +17,7 @@
 
 ```text
 使用 $skill-installer 安装以下 GitHub 目录中的技能：
-https://github.com/hziy175/figure2editable/tree/main/skills/figure-to-editable
+https://github.com/hziy175/figure-to-editable/tree/main/skills/figure-to-editable
 ```
 
 私有仓库需要安装环境已通过 GitHub 身份验证，并且账号具有访问权限。
