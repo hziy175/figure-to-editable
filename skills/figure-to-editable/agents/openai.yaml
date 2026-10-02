@@ -1,0 +1,6 @@
+interface:
+  display_name: "图像转可编辑"
+  short_description: "忠实重建科研图片为可编辑 PPT，逐项核对细节、数据来源和最终预览"
+  default_prompt: "使用 $figure-to-editable 将这张参考图忠实重建为可编辑 PPT，保留布局和全部细节，提供预览并说明可编辑范围。"
+policy:
+  allow_implicit_invocation: true
